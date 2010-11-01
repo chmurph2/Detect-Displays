@@ -11,7 +11,7 @@ faster than clicking "Detect Displays" after navigating to System Preferences
 ## Installation
 
 Install the script by typing `rake install` in this directory. This will
-compile the AppleScript into .scpt files and copy it into your
+compile the AppleScript into a .scpt file and copy it into your
 ~/Library/Scripts folder.
 
 ## Usage
